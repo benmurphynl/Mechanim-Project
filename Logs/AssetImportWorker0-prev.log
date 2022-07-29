@@ -1,0 +1,173 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.10f1 (297d780c91bc) revision 2719096'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1165; Version 2009; 64bit' Language: 'en' Physical Memory: 8034 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.10f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/benda/Desktop/BoxesSphere/Mechanim
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52683
+Successfully changed project path to: C:/Users/benda/Desktop/BoxesSphere/Mechanim
+C:/Users/benda/Desktop/BoxesSphere/Mechanim
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 28.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.10f1 (297d780c91bc)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/benda/Desktop/BoxesSphere/Mechanim/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   
+    VRAM:     4019 MB
+    Driver:   27.21.14.6589
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56380
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002049 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 26.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.117 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004256 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.921 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1387 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.8 MB.
+System memory in use after: 77.9 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1843.
+Total: 1.920600 ms (FindLiveObjects: 0.148600 ms CreateObjectMapping: 0.038500 ms MarkObjects: 1.648800 ms  DeleteObjects: 0.083800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/New Material.mat
+  artifactKey: Guid(3dfe05ecbff268b4d8fc2dbb0c1f123e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Material.mat using Guid(3dfe05ecbff268b4d8fc2dbb0c1f123e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0710ae2454a5fcd0f0e721055dd04bf3') in 0.115551 seconds
+  Import took 0.118447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 109.674111 seconds.
+  path: Assets/SunSetBack2048.png
+  artifactKey: Guid(0ddcec529b745c64dbf8f153424ab1a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SunSetBack2048.png using Guid(0ddcec529b745c64dbf8f153424ab1a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5504f2d40ca749bd26d9c31a27ce12c1') in 0.073613 seconds
+  Import took 0.076870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/SunSetUp2048.png
+  artifactKey: Guid(06cd1b73243f9c04088d36c9d0cb19fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SunSetUp2048.png using Guid(06cd1b73243f9c04088d36c9d0cb19fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20969b5ac3e660abdc548b6bfd2072b0') in 0.014184 seconds
+  Import took 0.019581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.433272 seconds.
+  path: Assets/SunSetDown2048.png
+  artifactKey: Guid(5024e17e4fb04894688a1c48a062b29b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SunSetDown2048.png using Guid(5024e17e4fb04894688a1c48a062b29b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b89295b82e7f5538e92baed9805d49e') in 0.033208 seconds
+  Import took 0.043206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/SunSetRight2048.png
+  artifactKey: Guid(75565cc8a7b45484d993cdcdd824a952) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SunSetRight2048.png using Guid(75565cc8a7b45484d993cdcdd824a952) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf26f3f27b40e5e6044252a77221cffe') in 0.022987 seconds
+  Import took 0.028980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/SunSetFront2048.png
+  artifactKey: Guid(43f83a25adf42aa41ab4db7e11e7625c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SunSetFront2048.png using Guid(43f83a25adf42aa41ab4db7e11e7625c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb421bae4a9b1f7ebd06f25a584a6ce7') in 0.026908 seconds
+  Import took 0.035508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/SunSetLeft2048.png
+  artifactKey: Guid(1538021b8e7927f458506b16895cd98d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SunSetLeft2048.png using Guid(1538021b8e7927f458506b16895cd98d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd296d559cb2813e193c4c194c4560f70') in 0.037122 seconds
+  Import took 0.042141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 90.352569 seconds.
+  path: Assets/Skybox.mat
+  artifactKey: Guid(3dfe05ecbff268b4d8fc2dbb0c1f123e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skybox.mat using Guid(3dfe05ecbff268b4d8fc2dbb0c1f123e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dc38eedc55b40e80c0bb0b3e6525460') in 0.048254 seconds
+  Import took 0.052509 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003752 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.989 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1382 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 81.2 MB.
+System memory in use after: 81.3 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1888.
+Total: 1.913700 ms (FindLiveObjects: 0.162800 ms CreateObjectMapping: 0.046200 ms MarkObjects: 1.645800 ms  DeleteObjects: 0.058000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.045287 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.547 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1382 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 81.3 MB.
+System memory in use after: 81.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1891.
+Total: 3.223200 ms (FindLiveObjects: 0.285800 ms CreateObjectMapping: 0.085300 ms MarkObjects: 2.608300 ms  DeleteObjects: 0.240900 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
